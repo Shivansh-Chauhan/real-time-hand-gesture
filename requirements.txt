@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy
+mediapipe
+scikit-learn
+tensorflow
+av==10.0.0
+aioice
+aiortc
